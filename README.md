@@ -57,11 +57,25 @@
 * 📚 Building a strong foundation in Java and DBMS
 * 💡 Working on personal coding projects
 
-## 🔗 Connect With Me
+## 🌐 Socials
 
-* LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-b3136a338
-* LeetCode: https://leetcode.com/u/Abdullah5554/
-* GitHub: https://github.com/abdullah58091
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-b3136a338" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Abdullah5554/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/abdullah58091" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## 📈 Career Goal
 
